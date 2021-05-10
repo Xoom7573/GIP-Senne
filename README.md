@@ -1,2 +1,2 @@
-# GIP-Senne
-GIP project > Classmate
+# GIPS-6TEA
+GIP projects > Classmates
